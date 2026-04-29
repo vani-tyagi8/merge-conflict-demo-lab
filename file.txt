@@ -1,1 +1,3 @@
 This is original content.
+
+This is edited line added under feature b to indicate merge conflict.
